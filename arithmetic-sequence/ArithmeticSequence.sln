@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArithmeticSequenceTask", "ArithmeticSequenceTask\ArithmeticSequenceTask.csproj", "{41A4F54E-85B1-420B-9E66-4F9D6872B5CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArithmeticSequenceTask.Tests", "ArithmeticSequenceTask.Tests\ArithmeticSequenceTask.Tests.csproj", "{6ADDEE74-FCA9-49B2-B78B-5979D2E8425A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B23813A7-3F49-4630-9070-E32D703B6514}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41A4F54E-85B1-420B-9E66-4F9D6872B5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41A4F54E-85B1-420B-9E66-4F9D6872B5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41A4F54E-85B1-420B-9E66-4F9D6872B5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41A4F54E-85B1-420B-9E66-4F9D6872B5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ADDEE74-FCA9-49B2-B78B-5979D2E8425A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ADDEE74-FCA9-49B2-B78B-5979D2E8425A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ADDEE74-FCA9-49B2-B78B-5979D2E8425A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ADDEE74-FCA9-49B2-B78B-5979D2E8425A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A3924B0-22CA-4E96-9D09-813FE091990F}
+	EndGlobalSection
+EndGlobal

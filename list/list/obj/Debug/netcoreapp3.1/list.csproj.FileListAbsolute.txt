@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\list\list\bin\Debug\netcoreapp3.1\list.exe
+C:\Users\User\source\repos\list\list\bin\Debug\netcoreapp3.1\list.deps.json
+C:\Users\User\source\repos\list\list\bin\Debug\netcoreapp3.1\list.runtimeconfig.json
+C:\Users\User\source\repos\list\list\bin\Debug\netcoreapp3.1\list.runtimeconfig.dev.json
+C:\Users\User\source\repos\list\list\bin\Debug\netcoreapp3.1\list.dll
+C:\Users\User\source\repos\list\list\bin\Debug\netcoreapp3.1\list.pdb
+C:\Users\User\source\repos\list\list\obj\Debug\netcoreapp3.1\list.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\list\list\obj\Debug\netcoreapp3.1\list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\list\list\obj\Debug\netcoreapp3.1\list.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\list\list\obj\Debug\netcoreapp3.1\list.AssemblyInfo.cs
+C:\Users\User\source\repos\list\list\obj\Debug\netcoreapp3.1\list.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\list\list\obj\Debug\netcoreapp3.1\list.dll
+C:\Users\User\source\repos\list\list\obj\Debug\netcoreapp3.1\list.pdb
+C:\Users\User\source\repos\list\list\obj\Debug\netcoreapp3.1\list.genruntimeconfig.cache
